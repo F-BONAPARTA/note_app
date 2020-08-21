@@ -1,4 +1,4 @@
-# http_test
+# Note App
 
 A new Flutter project.
 
