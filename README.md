@@ -8,6 +8,6 @@ My First Flutter Project
 
 2- Provider
 
-![Notes Screen](https://github.com/F-BONAPARTA/note_app/blob/master/Screenshot_1598234605.png?raw=true)
+![Notes Screen](https://github.com/F-BONAPARTA/note_app/blob/master/app images/Screenshot_1598234605.png?raw=true)
 
 
