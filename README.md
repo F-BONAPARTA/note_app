@@ -4,8 +4,8 @@ My First Flutter Project
 
 # Packages used
 
-Sqflite 
-Provider
+1- Sqflite 
+2- Provider
 
 
 
