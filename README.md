@@ -8,6 +8,10 @@ My First Flutter Project
 
 2- Provider
 
+# App Description
+
+you can add notes or edits or even search and also delete them.
+
 ![Notes Screen](https://github.com/F-BONAPARTA/note_app/blob/master/app_images/Screenshot_1598234605.png?raw=false)
 
 ![Note Content Screen](https://github.com/F-BONAPARTA/note_app/blob/master/app_images/Screenshot_1598234617.png?raw=false)
