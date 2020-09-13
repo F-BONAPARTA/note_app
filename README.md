@@ -13,8 +13,8 @@ My First Flutter Project
 you can add notes or edits or even search and also delete them.
 
 
-<img src="app_images/Screenshot_1598234605.png" width="100" >
-<img src="app_images/Screenshot_1598234617.png" width="300" >
+<img src="app_images/Screenshot_1598234605.png" width="500" >
+<img src="app_images/Screenshot_1598234617.png" width="500" >
 
 
 
