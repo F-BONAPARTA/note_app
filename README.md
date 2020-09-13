@@ -12,11 +12,10 @@ My First Flutter Project
 
 you can add notes or edits or even search and also delete them.
 
-#App Images
+
+<img src="app_images/Screenshot_1598234605.png" width="100" >
+<img src="app_images/Screenshot_1598234617.png" width="300" >
 
 
-![Notes Screen](https://github.com/F-BONAPARTA/note_app/blob/master/app_images/Screenshot_1598234605.png?raw=false)
-
-![Note Content Screen](https://github.com/F-BONAPARTA/note_app/blob/master/app_images/Screenshot_1598234617.png?raw=false)
 
 
