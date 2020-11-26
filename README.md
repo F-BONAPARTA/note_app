@@ -1,7 +1,7 @@
 # Note App
 
 My First Flutter Project
-
+#you can download the app and try it : https://bit.ly/3mcQ9FS
 # Packages used
 
 1- Sqflite 
